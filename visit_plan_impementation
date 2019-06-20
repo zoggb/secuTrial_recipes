@@ -1,0 +1,17 @@
+# Further configurations and visit plan implementation
+
+1. Login to the Formbuilder, select edit Visit Plan in the overview.
+2.1. Under the option Visit plan, set the inital and maximal count of visits.
+2.2. Check: Preset entry date with current date
+
+   
+3. Leave Handling of forms, Overview layout and Project-specific labels as preset.
+
+4.1. Under Visits create the same amount of vistis as specified in maximal count of visits. Go back to the AdminTool and un-check the checkbox that allows you to create new projects. 
+4.2. Name your visit, # will give a ascending number.
+4.3. Set the following options Type; 	Time lag (days) to the date of; 	max. earlier - late. 
+4.3.1. Recomended setting for the purpose of this recipie: Type: flexible; 	Time lag (days) to the date of: first visti: entry following ones: previous scheduled visit; max. earlier - late. : none   	max. earlier - late.  
+
+
+
+5. Under Form family / Form check for all visits the relevant forms.
